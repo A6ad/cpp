@@ -1,0 +1,22 @@
+how can you pass string 's' to our stringstream "ss"
+
+1.stringstream ss(s);
+2.stringstream ss; ss<<ss
+
+answer : both
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

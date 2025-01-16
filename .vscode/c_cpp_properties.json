@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "MinGW",
+            "includePath": [
+                "C:\\MinGW\\include"
+            ],
+            "compilerPath": "C:/MinGW/bin/g++.exe",
+            "intelliSenseMode": "windows-gcc-x64",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "MSYS2",
+            "includePath": [
+                "C:/path/to/msys64/usr/include"
+            ],
+            "compilerPath": "C:/path/to/msys64/usr/bin/g++.exe",
+            "intelliSenseMode": "gcc-x64",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
